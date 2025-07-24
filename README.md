@@ -47,6 +47,7 @@ The outcome of this task will contribute to deeper business insights and more ef
    - Sales peaked in May 2025, with the highest revenue and unit volume recorded across all months, indicating a strong market push or seasonal effect.
    - March and May show consistent high performance, both in terms of units sold and revenue, suggesting sustained demand during Q2.
 3. Dimension Group Date Test
+   
 A. Registration Trends by Year
  - Registrations span from 2016 to 2024.
  - 2017 shows the highest number of registrations (5 countries), indicating a peak in account activity.
