@@ -47,19 +47,19 @@ The outcome of this task will contribute to deeper business insights and more ef
    - Sales peaked in May 2025, with the highest revenue and unit volume recorded across all months, indicating a strong market push or seasonal effect.
    - March and May show consistent high performance, both in terms of units sold and revenue, suggesting sustained demand during Q2.
 3. Dimension Group Date Test
-1. Registration Trends by Year
+A. Registration Trends by Year
  - Registrations span from 2016 to 2024.
  - 2017 shows the highest number of registrations (5 countries), indicating a peak in account activity.
  - 2024 has 2 recent registrations, which might indicate a potential upward trend in new account creations.
-2. Quarterly Distribution
+B. Quarterly Distribution
  - Most of the registrations occurred in Q1 (Quarter 1), accounting for 8 out of 14 records, showing a trend of new registrations starting early in the year.
  - Q4 also had significant activity (4 registrations), particularly in 2024, 2022, and 2019.
-3.  Monthly Insights
+C.  Monthly Insights
  - Registrations occurred across various months, but February (notably 2022-02 and 2017-02) appears frequently, especially in Q1.
  - Months like October (10) and November (11) were active in Q4.
-4. Weekly Observations
+D. Weekly Observations
  - The week-based breakdown aligns closely with monthly insights, suggesting a consistent registration pattern in early weeks of Q1 and late Q4.
-5. Day of Week Patterns
+E. Day of Week Patterns
  - Registrations occurred on Thursday most often (5 instances), followed by Monday (4 instances), suggesting preference or system-related scheduling during the beginning/mid-week.
 
 
