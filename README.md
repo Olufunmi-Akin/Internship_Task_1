@@ -30,6 +30,7 @@ The outcome of this task will contribute to deeper business insights and more ef
 
 ### Deliverables:
 1. First Product Sold in Each Country(Countrywise)
+
 <img width="743" height="344" alt="image" src="https://github.com/user-attachments/assets/79c4041a-7655-4005-ab81-2e4f91c287ce" />
 
 2. Monthly Units Sold & Revenue by Country - 2025
