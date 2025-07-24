@@ -33,9 +33,11 @@ The outcome of this task will contribute to deeper business insights and more ef
 <img width="743" height="344" alt="image" src="https://github.com/user-attachments/assets/79c4041a-7655-4005-ab81-2e4f91c287ce" />
 
 2. Monthly Units Sold & Revenue by Country - 2025
+   
 <img width="791" height="360" alt="image" src="https://github.com/user-attachments/assets/73a88707-852c-4879-b501-513553830927" />
 
 3. Dimension Group Date Test
+   
 <img width="812" height="404" alt="image" src="https://github.com/user-attachments/assets/a3f71a2c-6344-4b73-b99c-b041f604bc3a" />
 
 ### Obsersavtions:
